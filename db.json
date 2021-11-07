@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Multipet Loofa Blue",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_f2fe38d0-8f47-4d16-9b17-af9c0a9e065f?fmt=pjpeg&wid=1400&qlt=80",
+      "likes": 1,
+      "id": 9
     }
   ]
 }
